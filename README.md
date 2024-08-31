@@ -1,12 +1,12 @@
 Define Click function 
-Create entry field and define geometry 
-All scientific button list using list method
+Create an entry field and define the geometry 
+All scientific button lists using the list method
 Use for loop on button 
-Increase row value by pluse equal to show all buttons
-Use get method to take value in the enteryfiled 
-Use delete function to delete the enteryfiled value
+Increase row value by plus equal to show all buttons
+Use the get method to take value in the entry field 
+Use the delete function to delete the entry filed value
 Use math function for scientific calculation
-Use eval function to evaluate the mathematical operation
-Delete function to delete the value from entry field
-Insert function to insert the value in answer variable 
+Use an eval function to evaluate the mathematical operation
+Delete function to delete the value from the entry field
+Insert function to insert the value in the answer variable 
  Grid method to pack the button and entry value 
